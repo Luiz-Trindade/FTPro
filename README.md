@@ -30,7 +30,7 @@ FTPro é uma aplicação simples, desenvolvida em Python, para automatizar o pro
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/usuario/ftpro.git
+    git clone https://github.com/Luiz-Trindade/FTPro.git
     ```
 
 2. Instale as dependências:
